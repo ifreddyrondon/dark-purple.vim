@@ -1,7 +1,7 @@
 " Vim color file
 "
 " Author: Freddy Rondon <ifreddyrondon@gmail.com>
-" https://github.com/ifreddyrondon/dark-purple
+" https://github.com/ifreddyrondon/dark-purple.vim
 "
 " Note: Port of the intellij's dark purple theme
 "
